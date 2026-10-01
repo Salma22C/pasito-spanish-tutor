@@ -389,37 +389,6 @@ For example:
                       Response
 ```
 
----
-
-# 🧪 From Prototype to Engineering Project
-
-The evolution of Pasito can be viewed as:
-
-```text
-Pasito v1
-   │
-   │  LLM application fundamentals
-   ▼
-Pasito v2
-   │
-   │  RAG + embeddings + retrieval
-   ▼
-Pasito v3
-   │
-   │  Evaluation + personalization
-   ▼
-Future
-   │
-   │  Advanced RAG / agentic workflows
-   ▼
-Production-oriented AI Tutor
-```
-
-The purpose of this evolution is not simply to keep adding features.
-
-Each version should address a specific limitation discovered in the previous version.
-
----
 
 # 📚 Learning Philosophy
 
@@ -442,18 +411,6 @@ Measure the improvement
 This makes Pasito more than a single application. It serves as a practical project through which I can explore different areas of **LLM engineering and AI systems**.
 
 ---
-
-# 🗺️ Project Roadmap
-
-| Stage | Focus | Status |
-|---|---|---|
-| v1 | Basic LLM-powered Spanish tutor | ✅ Completed |
-| v2 | RAG + semantic retrieval | 🔜 Planned |
-| v3 | Evaluation + personalization | 🔜 Planned |
-| v4 | Advanced RAG / agentic workflows | 🔮 Future |
-
----
-
 # 🙏 Acknowledgment
 
 This project was developed while learning **LLM Engineering with Ed Donner**, using the course concepts as a foundation for hands-on experimentation and independent project development.
