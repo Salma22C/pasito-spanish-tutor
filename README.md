@@ -419,8 +419,3 @@ The project is intended primarily as a learning and engineering portfolio projec
 
 ---
 
-
-
-**Ed Donner LLM Engineering → build Pasito v1 → discover limitations → study RAG → build Pasito v2/RAG → evaluate and improve.**
-
-That also connects very naturally with the RAG work you've been doing afterward.
