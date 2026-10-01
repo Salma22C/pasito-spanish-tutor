@@ -413,7 +413,7 @@ This makes Pasito more than a single application. It serves as a practical proje
 ---
 # 🙏 Acknowledgment
 
-This project was developed while learning **LLM Engineering with Ed Donner**, using the course concepts as a foundation for hands-on experimentation and independent project development.
+This project was developed while studying LLM Engineering with Ed Donner, using concepts from the course as a foundation for hands-on experimentation and independent project development.
 
 The project is intended primarily as a learning and engineering portfolio project.
 
